@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "@aerogear/core": "2.8.0",
-    "axios": "0.19.0",
+    "axios": "0.21.1",
     "bowser": "2.7.0"
   }
 }
