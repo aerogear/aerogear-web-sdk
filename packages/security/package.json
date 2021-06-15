@@ -26,17 +26,17 @@
   },
   "homepage": "https://github.com/aerogear/aerogear-js-sdk#readme",
   "devDependencies": {
-    "@types/chai": "4.2.5",
-    "chai": "4.2.0",
-    "mocha": "6.2.2",
-    "mockttp": "0.19.1",
+    "@types/chai": "4.2.18",
+    "chai": "4.3.4",
+    "mocha": "6.2.3",
+    "mockttp": "0.21.2",
     "nyc": "14.1.1",
-    "typescript": "3.7.2"
+    "typescript": "3.9.9"
   },
   "dependencies": {
     "@aerogear/core": "2.8.0",
     "@types/loglevel": "1.5.4",
     "axios": "0.19.0",
-    "loglevel": "1.6.6"
+    "loglevel": "1.7.1"
   }
 }

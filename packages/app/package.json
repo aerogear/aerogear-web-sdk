@@ -25,10 +25,10 @@
   },
   "homepage": "https://github.com/aerogear/aerogear-js-sdk#readme",
   "devDependencies": {
-    "@types/chai": "4.2.5",
-    "chai": "4.2.0",
-    "mocha": "6.2.2",
-    "typescript": "3.7.2"
+    "@types/chai": "4.2.18",
+    "chai": "4.3.4",
+    "mocha": "6.2.3",
+    "typescript": "3.9.9"
   },
   "dependencies": {
     "@aerogear/core": "2.8.0"
